@@ -127,6 +127,7 @@ a {
         margin-right: 20px; }
 
 .hero {
+  height: 100vh;
   background: #3b5d50;
   padding: 3rem 0 2rem 0;
   overflow: hidden; }
